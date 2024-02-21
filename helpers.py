@@ -3,7 +3,7 @@ import secrets
 from flask import request, jsonify, json
 import decimal
 
-from models import User
+from models import User, Book
 
 
 
